@@ -42,6 +42,10 @@ I ran the container with `docker run -p 3000:3000 -d frontend-react-js`
 ### Verification image
 ![image of the frontend page](assests/frontend.png)
 
+## Create a Docker Compose File
+I created a Docker Compose File (`docker-compose.yml`) at the root of my project
+This file defines services each of the containers and how they shoul communicate to each other  
+
 ## Document the Notification Endpoint for the OpenAI Document
 
 ### Verification Image
