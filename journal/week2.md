@@ -55,7 +55,7 @@ Running various querries was done using the reference from https://docs.honeycom
 <hr>
 
 ## Add X-Ray sub-segment
-![AWS X-Ry sub-segmemt](assests/xray-Subsegmemt.png)
+![AWS X-Ry sub-segmemt](assests/xray-subsegmemt.png)
 
 
 <hr>
