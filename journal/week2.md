@@ -1,7 +1,5 @@
 # Week 2 — Distributed Tracing
 
-# Week 2 — Distributed Tracing
-
 ## Instrument our backend flask application to use Open Telemetry (OTEL) with Honeycomb.io as the provider
 - Instrumented - Backend 
  
