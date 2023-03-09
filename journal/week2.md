@@ -55,14 +55,14 @@ Running various querries was done using the reference from https://docs.honeycom
 <hr>
 
 ## Add X-Ray sub-segment
-![AWS X-Ry sub-segmemt](assests/xray-subsegmemt.png)
+![AWS X-Ry sub-segmemt](assests/xray-Subsegmemt.png)
 
 
 <hr>
 
 ## Cloudwatch Instrumented
 ## Verification Image
-![AWS Cloudwatch Log ](assests/cludwatch-logs.png)
+![AWS Cloudwatch Log ](assests/cloudwatch-logs.png)
 <hr>
 
 
